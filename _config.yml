@@ -1,0 +1,28 @@
+name: Pauls
+favicon: null
+layout_spectrum: 0.016842422541230917
+typography_spectrum: 0.5099926674738526
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9304662421345711
+  lightness: 0.43683225684799254
+  saturation: 0.27588890097104013
+  rhythmicContrast: 0.2168632303364575
+purpose: []
